@@ -11,7 +11,7 @@
 <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvickynguyen&langs_count=10&count_private=true&hide=html,css&hide_langs_below=0.09&theme=default&layout=compact"> -->
 
 <img alt="stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iamvickynguyen&count_private=true&include_all_commits=true&show_icons=true&theme=default">
-<img alt="languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iamvickynguyen&langs_count=10&count_private=true&hide=html,css,jupyter%20notebook&hide_langs_below=0.09&theme=default&layout=compact">
+<img alt="languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iamvickynguyen&langs_count=10&count_private=true&hide=html,css,jupyter%20notebook&hide_langs_below=0.09&theme=default&layout=compact&exclude_repo=TakeTheWheelJesus">
 
 ---
 <!-- Jokes: https://github.com/ABSphreak/readme-jokes -->
